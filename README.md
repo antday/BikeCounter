@@ -1,6 +1,5 @@
-PhoneGap-Start
+Bike Counter
 ---
 
-A starting point for PhoneGap apps.
-
-To get started: fork this repo, modify the config.xml to match your details, and get building!
+An app to enable smartphone users to count bikes as they ride by and record the direction in which they ride.
+Written for Visual Bike Count in Australia initially.
